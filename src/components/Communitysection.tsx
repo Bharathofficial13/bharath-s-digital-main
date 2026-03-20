@@ -123,7 +123,7 @@ export default function CommunitySection() {
           <div className="reveal reveal-delay-2 relative h-96 sm:h-[500px] lg:h-[600px] flex items-center justify-center">
             {/* Left phone - floating */}
             <Phone content={leftPhoneContent} position="left" delay={0} />
-
+<span></span>
             {/* Right phone - floating with slight delay */}
             <Phone content={rightPhoneContent} position="right" delay={1} />
           </div>
